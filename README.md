@@ -6,7 +6,8 @@ Presets
       
       Esta aplicación cuenta con una tabla de registros precargada, en el directorio (//existe un script que puede ser modificado con la intención de optimizar la carga de archivos y generar nuevas coordenadas para posteriormente visualizarlas en el mapa. Dichos repositorios serán almacenados en un fichero de nombre app.db los cuales pueden ser visualizados con algun gestor de DB de sqlite3 p.e https://sqlitebrowser.org/. 
 _____
-https://cloud.githubusercontent.com/eberesquivel/flotilla/static/img/01.png
+![01](https://user-images.githubusercontent.com/19479856/54296526-bb2b1400-457a-11e9-8b80-a2cace21dc84.png)
+
 _____
       
 - Contar con alguna versión del lenguaje Python       
