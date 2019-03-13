@@ -1,8 +1,15 @@
 Manual para probar este repositorio
 
 Presets
-- Contar con alguna versión del lenguaje Python 
+
+- NOTA referente a la BD
       
+      Esta aplicación cuenta con una tabla de registros precargada, en el directorio (//existe un script que puede ser modificado con la intención de optimizar la carga de archivos y generar nuevas coordenadas para posteriormente visualizarlas en el mapa. Dichos repositorios serán almacenados en un fichero de nombre app.db los cuales pueden ser visualizados con algun gestor de DB de sqlite3 p.e https://sqlitebrowser.org/. 
+_____
+https://raw.githubusercontent.com/eberesquivel/flotilla/http://eberesquivel.com/img/01.png
+_____
+      
+- Contar con alguna versión del lenguaje Python       
       https://www.python.org/downloads/
 
 - Clonar el repositorio en el directorio destino
@@ -31,11 +38,6 @@ Presets
       127.0.0.1:5000:Dirección y puerto para acceder a la app
 ____
 
-IMG
-_____
 
-- NOTA referente a la BD
-      
-      Esta aplicación cuenta con una tabla de registros precargada, en el directorio (//existe un script que puede ser modificado con la intención de optimizar la carga de archivos y generar nuevas coordenadas para posteriormente visualizarlas en el mapa. Dichos repositorios serán almacenados en un fichero de nombre app.db los cuales pueden ser visualizados con algun gestor de DB de sqlite3 p.e https://sqlitebrowser.org/. 
-      
+
       
