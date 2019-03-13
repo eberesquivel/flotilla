@@ -1,3 +1,9 @@
+# Nota: Este programa no cumple con todos los requerimientos específicos solicitados, sin embargo es una muestra de mi conocimiento y habilidades aplicadas en un periodo de tiempo reducido, dado a otras actividades que cubro en mi día a día. No obstante, considero la funcionalidad adecuada a una necesidad original propuesta. Quedo de ustedes en espera de comentarios.
+
+# P.D la versión desplegada en un servidor ser está realizando en pythonanywhere, debido a que no tengo tarjeta de credito o un servicio en Amazon webservices o Google Cloud, pero hay una incompatibilidad por el lenguaje utilizado en el servidor de pruebas y el de producción, por lo tanto el despliegue aun no es correcto.
+
+Saludos
+
 Manual para probar este repositorio
 
 Presets
