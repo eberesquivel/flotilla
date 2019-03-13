@@ -47,7 +47,7 @@ $.ajax({
                 this.bounce(3);
             }).addTo(markers);
 
-            var content = title + "</br>" + "Latitud:" + map_data[i].Latitude + "</br>" + "Longitud:" + map_data[i].Longitude + "</br>"+"Imagen" ;
+            var content = title + "</br>" + "Latitud:" + map_data[i].Latitude + "</br>" + "Longitud:" + map_data[i].Longitude + "</br>"+"Usuario" ;
             marker.bindPopup(content, {
                 maxWidth: 1080
                 
