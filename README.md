@@ -2,6 +2,8 @@ Manual para probar este repositorio
 
 Presets
 - Contar con alguna versión del lenguaje Python 
+      
+      https://www.python.org/downloads/
 
 - Clonar el repositorio en el directorio destino
 
@@ -22,3 +24,8 @@ Presets
       pip install -r requirements.txt : Comando para instalar las dependecias del proyecto
 
 
+- Nuestra aplicación está lista para iniciar
+      
+      python app.py :Este comando iniciará la aplicación en un servidor de prueba 
+      
+      127.0.0.1:5000:Dirección y puerto para acceder a la app
