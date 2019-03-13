@@ -39,6 +39,19 @@ _____
       127.0.0.1:5000:Dirección y puerto para acceder a la app
 ____
 
+____
 
+PANTALLAS GENERALES
 
-      
+Pantalla de inicio
+https://user-images.githubusercontent.com/19479856/54308219-1ec13b80-4593-11e9-8147-6306720ef417.png
+
+____
+Pantalla de Busqueda
+
+https://user-images.githubusercontent.com/19479856/54308313-63e56d80-4593-11e9-9bc5-3ba80b62408a.png
+
+_____
+
+Pantalla despliegue de Información
+https://user-images.githubusercontent.com/19479856/54308487-bb83d900-4593-11e9-8e44-9ed0534e15d6.png
