@@ -22,7 +22,7 @@ _____
 - Crear un entorno virtual de python con virtualenv
       
       pip install virtualenv : Comando para instalar librerías de virtualenv y crear dependencias
-      virtualenv env -p python3 : Comando para crear entorno virtual en nuestro directorio y posteriormente descargar     dependencias requeridas para el funcionamiento de la app
+      virtualenv -p python3 env : Comando para crear entorno virtual en nuestro directorio y posteriormente descargar     dependencias requeridas para el funcionamiento de la app
       cd env
       source bin/activate: Este comando activará el entorno virtual de python
 - Regresar al directorio raiz de la app
