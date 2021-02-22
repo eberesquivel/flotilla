@@ -5,16 +5,16 @@ name = ["carro1", "carro2", "carro3", "carro4", "carro5"]
 # name = ["lancha", "bote"]
 
 picture = [ 
-           "http://eberesquivel.com/img/VTUIaBJ.jpg",
-           "http://eberesquivel.com/img/HDHTs3j.jpg",
-           "http://eberesquivel.com/img/HKbv7u7.jpg",
-           "http://eberesquivel.com/img/quUVA5Tb.jpg",
-           "http://eberesquivel.com/img/9RZL0j5b.jpg",
-           "http://eberesquivel.com/img/keSmEdPb.jpg",
-           "http://eberesquivel.com/img/buPaGzlb.jpg",
-           "http://eberesquivel.com/img/5NzC1gvb.jpg",
-           "http://eberesquivel.com/img/bote.jpg",
-           "http://eberesquivel.com/img/lancha.jpg",
+           "https://freepngimg.com/thumb/car/3-2-car-free-download-png.png",
+           "https://freepngimg.com/thumb/car/7-2-car-free-png-image-thumb.png",
+           "https://freepngimg.com/thumb/car/8-2-car-png-clipart-thumb.png",
+           "https://freepngimg.com/thumb/car/60121-art-car-vector-bmw-m3-series-thumb.png",
+           "https://freepngimg.com/thumb/car/60136-blue-i8-car-sports-m5-vr-bmw-thumb.png",
+           "https://freepngimg.com/thumb/car/81496-fiat-car-toro-automobiles-motor-vehicle-thumb.png",
+           "https://freepngimg.com/thumb/car/13-2-car-png-thumb.png",
+           "https://freepngimg.com/thumb/car/5-2-car-png-pic-thumb.png",
+           "https://freepngimg.com/thumb/boat/20773-3-transparent-boat-thumb.png",
+           "https://freepngimg.com/thumb/boat/36647-3-boat-concept-thumb.png",
            ]
 
 color = ["#E44040", "#EC21C7", "#8C4C80", "#A41FEC", "#B99ADA"
