@@ -13,8 +13,8 @@ manager = Manager(app)
 manager.add_command('db', MigrateCommand)
 
 
-class MapAutos(db.Model):
-    __tablename__ = 'MapAutos'
+class MapPets(db.Model):
+    __tablename__ = 'MapPets'
 
     Id = db.Column(db.Integer, primary_key=True)
     Name = db.Column(db.String(64))
