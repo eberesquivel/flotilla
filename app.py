@@ -12,7 +12,7 @@ def index():
 
 @app.route("/api", methods=['POST'])
 def api():
-    db_data = MapPets.query.all()
+    db_data = MapAutos.query.all()
     infornation_dic = {}
     infornation_list = []
     for data in db_data:

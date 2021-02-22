@@ -1,8 +1,8 @@
 from Entity import *
 
 
-class MapPets(db.Model):
-    __tablename__ = 'MapPets'
+class MapAutos(db.Model):
+    __tablename__ = 'MapAutos'
 
     def __init__(self
                  , Name

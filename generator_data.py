@@ -28,7 +28,7 @@ if __name__ == '__main__':
         index_name = random.randint(0, len(name) - 1)
         index_pic = random.randint(0, len(picture) - 1)
         index_color = random.randint(0, len(color) - 1)
-        insert_data = MapPets(
+        insert_data = MapAutos(
             Name=name[index_name] + str(index),
             Picture=picture[index_pic],
             Color=color[index_color],
